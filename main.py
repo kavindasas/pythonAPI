@@ -13,7 +13,7 @@ app.testing = True
 
 @app.route('/', methods=['GET'])
 def home():
-    return make_response(jsonify({'error': 'Not found'}), 404)
+    return make_response(jsonify({'hello': 'hello world'}), 200)
 
 @app.errorhandler(404)
 def page_not_found(e):
@@ -32,5 +32,5 @@ def create_task():
     return jsonify({'type': result}), 200
 
 
-
-app.run()
+if __name__ == '__main__':
+  app.run()
