@@ -1,5 +1,2 @@
 flask
-numpy
-seaborn
-scipy
 sklearn
