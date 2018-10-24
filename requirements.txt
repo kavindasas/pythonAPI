@@ -1,9 +1,5 @@
-<<<<<<< HEAD
 flask
 numpy
 seaborn
 scipy
 sklearn
-=======
-
->>>>>>> origin/master
