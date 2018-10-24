@@ -1,0 +1,23 @@
+{
+    "time": 0.0200153,
+    "clippededges": -0.3014402,
+    "hipcenter": -0.3008801,
+    "spine": -0.2884384,
+    "shouldercenter": -0.2709138,
+    "head": -0.4670434,
+    "shoulderleft": -0.5239125,
+    "elbowleft": -0.5501519,
+    "wristleft": -0.5606456,
+    "handleft": -0.1176529,
+    "shoulderright": -0.07766194,
+    "elbowright": -0.05077618,
+    "wristright": -0.04127074,
+    "handright": -0.3825685,
+    "hipleft": -0.4515708,
+    "kneeleft": -0.4349683,
+    "ankleleft": -0.4293025,
+    "footleft": -0.2254354,
+    "hipright": -0.2188429,
+    "kneeright": -0.2053359,
+    "ankleright": -0.227809
+}
