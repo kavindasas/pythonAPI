@@ -2,6 +2,5 @@ Flask==0.12.1
 sklearn
 request
 jsonify
-make_response
 abort
 joblib
